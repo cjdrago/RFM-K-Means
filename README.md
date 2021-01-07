@@ -6,8 +6,9 @@ Online retail is a transnational data set which contains all the transactions oc
 ### Business Goal
 We will be using the online retail trasnational dataset to build a RFM clustering and choose the best set of customers which the company should target.
 > #### RFM
-> RFM analysis objective is quite clear: *identify customers with recent purchase records (low recency), frequent purchase record(high frequency) and have spent good money (monetary is high). **Bsically it is a marketing analysis tool used to identify a company's or an organization's best customers by using the measured mentioned before** *. These customers likely to be more important than customers with low frequency and low monetary purchases. <br>
-> There are also those customers in the middle, with moderately high frequency and monetary, but also very high recency. Perhaps these customers bought something in the past which is no longer offered or available.
+> RFM analysis objective is quite clear: *identify customers with recent purchase records (low recency), frequent purchase record(high frequency) and have spent good money (monetary is high). **Basically it is a marketing analysis tool used to identify a company's or an organization's best customers by using the measured mentioned before***. These customers likely to be more important than customers with low frequency and low monetary purchases. <br>
+> There are also those customers in the middle, with moderately high frequency and monetary, but also very high recency. Perhaps these customers bought something in the past which is no longer offered or available.<br>
+>RFM analysis allows a comparison between potential contributors or clients. It gives organizations a sense of how much revenue comes from repeat customers (versus new customers), and which levers they can pull to try to make customers happier so they become repeat purchasers.
 
 ### Attribute Information:
 
