@@ -20,5 +20,7 @@ We will be using the online retail trasnational dataset to build a RFM clusterin
 6. UnitPrice: Unit price. Numeric, Product price per unit in sterling.
 7. CustomerID: Customer number. Nominal, a 5-digit integral number uniquely assigned to each customer.
 8. Country: Country name. Nominal, the name of the country where each customer resides.
+
 ---
+
 ### Final clustering
