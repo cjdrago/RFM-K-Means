@@ -25,5 +25,7 @@ We will be using the online retail trasnational dataset to build a RFM clusterin
 
 ### Final clustering
 
-[Link to scaled-data plot (clustered)](https://cjdrago.github.io/RFM-K-Means/){:target="_blank"} <br>
-[Link to original-data plot (clustered)](https://cjdrago.github.io/RFM-K-Means/nonScaled.html){:target="_blank"}
+
+<a href="https://cjdrago.github.io/RFM-K-Means/" target="_blank">Link to scaled-data plot (clustered)</a>
+
+<a href="https://cjdrago.github.io/RFM-K-Means/nonScaled.html" target="_blank">Link to original-data plot (clustered)</a>
